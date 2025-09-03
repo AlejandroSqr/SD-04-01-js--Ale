@@ -1,10 +1,8 @@
 const arr = []
 
 // Escribe tu codigo por debajo de esta linea
-
-const arr = []
+//Aqui le puse comillas a cada numero asi como se vio el dia de hoy, los demas task ya no lo tienen.
 arr.push("1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20");
-
 // Escribe tu codigo por encima de esta linea
 
 //No tocar esta funcion
